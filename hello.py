@@ -1,3 +1,4 @@
 """
-Welcome to your first Python script!
+Your first python script: Try printing out "Hello world!" 
 """
+

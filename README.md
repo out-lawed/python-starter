@@ -6,7 +6,7 @@ You can add more plugins and change the interface theme by visiting the Extensio
 # Get started 
 1. Click on the ```Code``` button.
 2. Click on the ```Create codespace on main``` button.
-![getting-started](https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/d4872088-c8e0-4787-8df1-cd74622e1852)
+![getting-started](https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/1d1678e6-f3a0-45e7-a1c6-f7f905b4760c)
 
 After starting your codespace, you should see something like this: 
 

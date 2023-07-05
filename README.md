@@ -4,16 +4,16 @@ This is a Codespace (provided by Github). It's a development environment that yo
 You can add more plugins and change the interface theme by visiting the Extensions marketplace. However, please do not change the Python version you are using. 
 
 # Get started 
-1. Click on the ```Code``` button.
+1. Click on the ```Code``` button, followed by the ```Codespaces``` tab.
 2. Click on the ```Create codespace on main``` button.
 ![getting-started](https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/1d1678e6-f3a0-45e7-a1c6-f7f905b4760c)
 
 After starting your codespace, you should see something like this: 
 
-<img width="1440" alt="Example of a Github Codespace running" src="https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/b9617359-94aa-4390-90dd-efac8c7a21be">
+<img width="1440" alt="Example of a Github Codespace running" src="https://github.com/NUSLaw/python-starter/assets/37551277/b9617359-94aa-4390-90dd-efac8c7a21be">
 
 
-You can enter ```python --version``` in the terminal to check that Python is installed with the correct version (3.11.X)
+You can enter ```python --version``` in the terminal to check that Python is installed with the correct version (3.11.x)
 
 <img width="523" alt="Screenshot 2023-07-04 at 4 42 36 PM" src="https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/2a647931-7d3d-4e2d-95e4-50a675243ee7">
 

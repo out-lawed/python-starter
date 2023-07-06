@@ -1,5 +1,22 @@
 
-This is a Codespace (provided by Github). It's a development environment that you can use for the rest of the course for non-assignment related work. We've already configured the Python versions so that you don't have to worry about installing it. 
+This is a Codespace (provided by Github). It's a development environment that you can use for the rest of the course for non-assignment related work. We've already configured this to use Python 3.11 so that you don't have to worry about installing it. 
 
-# Configuration details
-This uses Python 3.11 and the One Monokai theme, You can add more features and change themes by visiting the Extensions page. However, please do not change the Python version you are using. 
+You can add more plugins and change the interface theme by visiting the Extensions marketplace. However, please do not change the Python version you are using. 
+
+# Get started 
+1. Click on the ```Code``` button, followed by the ```Codespaces``` tab.
+2. Click on the ```Create codespace on main``` button.
+![getting-started](https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/1d1678e6-f3a0-45e7-a1c6-f7f905b4760c)
+
+After starting your codespace, you should see something like this: 
+
+<img width="1440" alt="Example of a Github Codespace running" src="https://github.com/NUSLaw/python-starter/assets/37551277/b9617359-94aa-4390-90dd-efac8c7a21be">
+
+
+You can enter ```python --version``` in the terminal to check that Python is installed with the correct version (3.11.x)
+
+<img width="523" alt="Screenshot 2023-07-04 at 4 42 36 PM" src="https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/2a647931-7d3d-4e2d-95e4-50a675243ee7">
+
+You can customise the appearance of your Codespace with themes and add more plugins by visiting the Extensions marketplace. You can get there by clicking this window icon on the sidebar. 
+
+<img width="244" alt="Screenshot 2023-07-04 at 4 44 43 PM" src="https://github.com/TRAIL-NUS-Law-School/python-starter/assets/37551277/a795932b-1b31-40a3-8948-fc284c53d72f">
